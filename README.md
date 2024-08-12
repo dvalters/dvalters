@@ -1,4 +1,4 @@
-## About
+## Hello, World 👋
 
 I'm a software engineer working at [EPCC](https://epcc.ed.ac.uk) (_Edinburgh Parallel Computing Centre_). I work on projects spanning Data Engineering and HPC (High Performance Computing) to make scientific computing platforms and services better for research & industry.
 
