@@ -1,6 +1,6 @@
 ## 👋 Hello, World 
 
-I'm a software engineer working at [EPCC](https://epcc.ed.ac.uk) (_Edinburgh Parallel Computing Centre_). I work on projects spanning Data Engineering and HPC (High Performance Computing) to make scientific computing platforms and services better for research & industry.
+I'm a software engineer working at [EPCC](https://epcc.ed.ac.uk) (_Edinburgh Parallel Computing Centre_). I work on projects spanning Data Engineering and HPC (High Performance Computing) to improve scientific computing platforms and software tools for research & industry.
 
 ### 🔭 I’m currently working on:
   - ⚕️🏥 Trusted Research Environments, a secure platform for enabling researchers to work on sensitive data; part of the [Edinburgh International Data Facility](https://ddi.ac.uk/about-us/eidf/).
