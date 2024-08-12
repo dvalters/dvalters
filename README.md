@@ -4,7 +4,7 @@ I'm a software engineer working at [EPCC](https://epcc.ed.ac.uk) (_Edinburgh Par
 
 ### 🔭 I’m currently working on:
   - ⚕️🏥 Trusted Research Environments, a secure platform for enabling researchers to work on sensitive data; part of the [Edinburgh International Data Facility](https://ddi.ac.uk/about-us/eidf/).
-  - 🔌🌳 A project to make HPC scheduling more efficient.
+  - 🔌🌳 A project to make HPC job scheduling more efficient and deliver more "science per Joule" on HPC.
 
 ### 📫 How to reach me:
   - 📮 [Electronic mail](mailto:dvalts@gmail.com)
