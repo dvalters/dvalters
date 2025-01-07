@@ -1,10 +1,6 @@
 ## 👋 Hello, World 
 
-I'm a software engineer working at [EPCC](https://epcc.ed.ac.uk) (_Edinburgh Parallel Computing Centre_). I work on projects spanning Data Engineering and HPC (High Performance Computing) to improve scientific computing platforms and software tools for research & industry.
-
-### 🔭 I’m currently working on:
-  - ⚕️🏥 Trusted Research Environments, a secure platform for enabling researchers to work on sensitive data; part of the [Edinburgh International Data Facility](https://ddi.ac.uk/about-us/eidf/).
-  - 🔌🌳 A project to make HPC job scheduling more efficient and deliver more "science per Joule" on HPC.
+I'm a software engineer working at the [British Geological Survey](https://bgs.ac.uk) in the Geomagnetism team
 
 ### 📫 How to reach me:
   - 📮 [Electronic mail](mailto:dvalts@gmail.com)
